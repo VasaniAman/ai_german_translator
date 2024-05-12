@@ -5,6 +5,7 @@
 Before using the AI German Translator, make sure to install the following dependencies:
 
 - [Gradio](https://pypi.org/project/gradio/): Gradio is a Python library that lets you quickly create customizable UI components around your machine learning models. Install it using:
+- 
   ```pip install gradio```
 
 - [Transformers](https://huggingface.co/transformers/): Transformers is a popular library for Natural Language Processing (NLP) tasks, developed by Hugging Face. It provides state-of-the-art pre-trained models for various NLP tasks. Install it using:
