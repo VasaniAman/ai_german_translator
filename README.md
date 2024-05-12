@@ -1,6 +1,6 @@
 # AI German Translator
 
-I have used HuggingFace and Gradio to help this project come alive. If you would like to run it on your local machines, these are the dependencies you will need:
+I have used HuggingFace and Gradio to help this project come alive. If you would like to run it on your local machine, these are the dependencies you will need:
 
 ## Dependencies
 
