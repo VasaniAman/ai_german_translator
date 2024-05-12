@@ -1,7 +1,7 @@
 #AI German Translator
 
 Dependancies needed:
-pip install gradio 
+/npip install gradio 
 pip install transformers 
 pip install tensorflow 
 pip install tf-keras
